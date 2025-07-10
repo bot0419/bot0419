@@ -41,7 +41,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_skipped: jim60105/Playlists, jim60105/jim60105
+          plugin_activity_skipped: bot0419/Playlists, bot0419/bot0419
           plugin_activity_load: 300
           plugin_activity_visibility: all
           base: ""
@@ -92,7 +92,7 @@ jobs:
           plugin_wakatime_repositories_visibility: public
           plugin_wakatime_sections: time, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: jim60105
+          plugin_wakatime_user: bot0419
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           base: ""
           repositories_forks: yes

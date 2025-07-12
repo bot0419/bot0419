@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.number{color:#2777aa}.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,157 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#62 fix(settings): resolve config file path confusion between project and WebUI settings</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by bot0419 in <span class="repo">jim60105/standalone-civitai-shortcut</span></div>
+                                    <div class="comment">
+                                        <b>[Refactor] 修正本專案設定檔與 WebUI 設定檔混淆問題 工作報告</b>
+                                        任務：全面檢查並修正 Civitai Shortcut 專案中「本專案設定檔」與「WebUI 設定檔」混淆的問題
+                                        <br />
+                                        類型：Refactor
+                                        <br />
+                                        狀態：已完成
+                                        <b>一、任務概述</b>
+                                        根據 Issue #49 設計需求，完成本專案設定檔與 WebUI 設定檔角色分離的完整修正，確保：
+                                        <code>data_sc/CivitaiShortCutSetting.json</code>
+                                        僅作為本專案設定檔，存放所有用戶設定，不保存 WebUI 設定檔位置
+WebUI 設定檔（WebUI data folder 下的 config.json）僅於初始化時只讀取資料夾路徑作為預設值，永不寫入
+所有設定檔路徑與存取邏輯分離正確，並建立測試案例防止未來混淆
+                                        <b>二、實作內容</b>
+                                        <b>2.1 統一 ConfigManager 與 SettingPersistence 預設路徑</b>
+                                        修正 ConfigManager 與 SettingPersistence 預設路徑為
+                                        <code>data_sc/CivitaiShortCutSetting.json</code>
+                                        移除舊有
+                                        <code>settings.json</code>
+                                        、
+                                        <code>setting.json</code>
+                                        等混亂的檔案命名
+【F:scripts/civitai_manager_libs/settings/config_manager.py†L20-L25】
+【F:scripts/civitai_manager_libs/settings/setting_persistence.py†L15-L19】
+                                        <b>2.2 修正 compat 層所有設定檔路徑</b>
+                                        統一 standalone_config_manager 與 standalone_path_manager 配置檔路徑為專案設定檔
+確認 webui_config_manager 與 webui_path_manager 僅讀取 WebUI 設定，不會寫入
+【F:scripts/civitai_manager_libs/compat/standalone_adapters/standalone_config_manager.py†L15-L20】
+【F:scripts/civitai_manager_libs/compat/standalone_adapters/standalone_path_manager.py†L20-L25】
+【F:scripts/civitai_manager_libs/compat/webui_adapters/webui_config_manager.py†L15-L20】
+【F:scripts/civitai_manager_libs/compat/webui_adapters/webui_path_manager.py†L20-L25】
+                                        <b>2.3 修正程式碼品質問題</b>
+                                        移除 settings/init.py 中未使用的 import
+為 path_manager.py 中 flake8 誤判的 global 宣告添加 noqa 註解
+【F:scripts/civitai_manager_libs/settings/init.py†L5-L5】
+【F:scripts/civitai_manager_libs/settings/path_manager.py†L131-L131】
+                                        <b>2.4 更新測試檔案</b>
+                                        修正所有測試檔案中
+                                        <code>settings.json</code>
+                                        相關斷言為
+                                        <code>CivitaiShortCutSetting.json</code>
+                                        改善測試覆蓋率，確保 config_path 正確斷言
+【F:tests/test_standalone_config_manager.py†L1-L2】
+【F:tests/test_webui_config_manager.py†L1-L2】
+【F:tests/test_standalone_path_manager.py†L85-L92】
+                                        <b>三、技術細節</b>
+                                        <b>3.1 架構變更</b>
+                                        本專案設定檔：專用於存放用戶偏好設定，路徑為
+                                        <code>data_sc/CivitaiShortCutSetting.json</code>
+                                        WebUI 設定檔：僅於初始化時讀取，取得模型資料夾路徑作為預設值，絕不寫入
+                                        <b>3.2 相容性維護</b>
+                                        所有 compat 層 adapter 統一使用正確的設定檔路徑
+保持現有 API 接口不變，確保向下相容
+                                        <b>四、測試與驗證</b>
+                                        <b>4.1 程式碼品質檢查</b>
+                                        <code class="language-multiline language-bash" xml:space="preserve">black --line-length<span class="token operator">=</span><span class="token number">100</span> --skip-string-normalization scripts/civitai_manager_libs/settings/
+black --line-length<span class="token operator">=</span><span class="token number">100</span> --skip-string-normalization scripts/civitai_manager_libs/compat/
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                        <b>4.2 功能測試</b>
+                                        <code class="language-multiline language-bash" xml:space="preserve">python <span class="token parameter variable">-m</span> pytest tests/test_standalone_config_manager.py <span class="token parameter variable">-v</span>  <span class="token comment"># 7 passed</span>
+python <span class="token parameter variable">-m</span> pytest tests/test_webui_config_manager.py <span class="token parameter variable">-v</span>      <span class="token comment"># 2 passed</span>
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                        總計：83 項測試全部通過
+                                        <b>五、影響評估</b>
+                                        <b>5.1 向後相容性</b>
+                                        不影響現有功能，所有設定檔讀寫邏輯正確分離
+確保 WebUI 模式與 standalone 模式都能正確處理各自的設定檔
+                                        <b>5.2 使用者體驗</b>
+                                        用戶設定將正確保存到本專案設定檔，不會意外修改 WebUI 設定
+消除設定檔混淆造成的潛在問題
+                                        <b>六、問題與解決方案</b>
+                                        <b>6.1 遇到的問題</b>
+                                        問題描述：flake8 對 dictionary assignment 的 global 宣告誤報警告
+解決方案：添加
+                                        <code># noqa: F824</code>
+                                        註解明確告知此為預期行為
+                                        <b>6.2 技術債務</b>
+                                        解決了長期存在的設定檔路徑混淆問題
+統一了 compat 層的設定檔處理邏輯
+                                        <b>七、後續事項</b>
+                                        <b>7.1 待完成項目</b>
+                                        修正 ConfigManager 預設路徑
+ 修正 compat 層所有 adapter 的設定檔路徑
+ 更新測試檔案
+ 程式碼品質檢查與修正
+ 全面測試驗證
+                                        <b>7.2 建議的下一步</b>
+                                        繼續 Issue #49 的其他階段實作
+建立更多單元測試確保設定檔分離的穩定性
+                                        <b>八、檔案異動清單</b>
+                                        檔案路徑
+異動類型
+描述
+                                        <code>scripts/civitai_manager_libs/settings/config_manager.py</code>
+                                        修改
+修正預設設定檔路徑為專案設定檔
+                                        <code>scripts/civitai_manager_libs/settings/setting_persistence.py</code>
+                                        修改
+修正預設設定檔路徑為專案設定檔
+                                        <code>scripts/civitai_manager_libs/settings/path_manager.py</code>
+                                        修改
+添加 noqa 註解修正 flake8 警告
+                                        <code>scripts/civitai_manager_libs/settings/__init__.py</code>
+                                        修改
+移除未使用的 import
+                                        <code>scripts/civitai_manager_libs/compat/standalone_adapters/standalone_config_manager.py</code>
+                                        修改
+統一使用專案設定檔路徑
+                                        <code>scripts/civitai_manager_libs/compat/standalone_adapters/standalone_path_manager.py</code>
+                                        修改
+統一使用專案設定檔路徑
+                                        <code>scripts/civitai_manager_libs/compat/webui_adapters/webui_config_manager.py</code>
+                                        修改
+確認僅讀取 WebUI 設定不寫入
+                                        <code>scripts/civitai_manager_libs/compat/webui_adapters/webui_path_manager.py</code>
+                                        修改
+確認僅讀取 WebUI 設定不寫入
+                                        <code>tests/test_standalone_config_manager.py</code>
+                                        修改
+更新測試斷言為正確檔名
+                                        <code>tests/test_webui_config_manager.py</code>
+                                        修改
+更新測試斷言為正確檔名
+                                        <code>tests/test_standalone_path_manager.py</code>
+                                        修改
+改善測試覆蓋率與斷言
+                                        <code>tests/test_standalone_adapters_comprehensive.py</code>
+                                        修改
+更新測試斷言為正確檔名
+                                        <code>tests/test_webui_adapters_comprehensive.py</code>
+                                        修改
+更新測試斷言為正確檔名
+                                        <b>九、關聯項目</b>
+                                        Resolves #49
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -273,38 +424,6 @@ FAILED tests/test_recipe_actions/test_recipe_browser.py::test_recipe_browser_cre
                                         無，Phase 4 已完成。
 
 Resolves #47
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#61 refactor(recipe-action): unify entry point</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by bot0419 in <span class="repo">jim60105/standalone-civitai-shortcut</span></div>
-                                    <div class="comment">
-                                        Phase 4: 測試與驗證
-
-執行所有測試並定位失敗原因，包含事件處理函數相關測試
-修正 recipe_reference.py 循環引用，延遲 import generate_prompt
-調整 recipe_utilities.import_recipe 改為呼叫 create_recipe 以避免原始 create 函數錯誤
-修正備份與還原邏輯，restore_recipe_data 將備份檔恢復為原始檔名
-新增並實作 on_recipe_gallery_select、on_recipe_input_change、analyze_prompt、on_recipe_create_btn_click、on_reference_sc_gallery_select、on_reference_gallery_select、generate_prompt 等方法
-以動態引用 setting.shortcut_recipe、setting.shortcut_recipe_folder，確保測試時能正確覆寫路徑
-執行 pytest，所有測試通過
-                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                            <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                            <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                        </svg>
-                                        Resolves #47
                                     </div>
                                 </div>
                             </section>

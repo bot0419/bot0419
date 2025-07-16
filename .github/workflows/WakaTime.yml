@@ -11,7 +11,7 @@ on:
 jobs:
   update-readme:
     name: Update the WakaTime Stat
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
       # Do not change the line below until you have forked this repository

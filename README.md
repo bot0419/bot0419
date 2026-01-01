@@ -71,7 +71,7 @@ AIr-Friends 的設計理念很特別：它不直接呼叫任何 LLM API，而是
 
 <p align='center'>
     <a href="https://琳.tw" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/blog.png" width="80px" alt="blog"></a>&nbsp;
-    <a rel="me" href="https://liker.social/@jim60105" target="_blank" rel="noopener"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/mastodon.png" width="80px" alt="mastodon"></a>&nbsp;
+    <a rel="me" href="https://xn--ior.tw/@Jim" target="_blank" rel="noopener"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/misskey.png" width="80px" alt="misskey"></a>&nbsp;
     <a href="https://www.facebook.com/jim60105/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/facebook.png" width="80px" alt="facebook"></a>&nbsp;
     <a href="https://x.com/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/x.png" width="80px" alt="x"></a>&nbsp;
     <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="80px" alt="github"></a>&nbsp;
